@@ -17,7 +17,9 @@ A simple Flutter application for managing a to-do list with offline capabilities
 ### Prerequisites
 
 - Flutter SDK: [Install Flutter](https://flutter.dev/docs/get-started/install)
+- Flutter SDK Version: 3.29.3
 - Dart SDK: Included with Flutter SDK
+- Dart version: 3.7.2
 
 ### Dependencies
 
